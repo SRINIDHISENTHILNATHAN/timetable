@@ -16,7 +16,7 @@ Execute the program
 # CODE
 ```
 # Design a Webpage to Display Timetable 
-#Developed by: Srinidhi senthil
+#Developed by:srinidhi senthil
 #RegisterNumber:22001408
 <TABLE BORDER="8" width="750" bgcolor="lavender" cellspacing="10" cellpadding="15"> 
 <TR> 
@@ -43,7 +43,7 @@ Execute the program
       <TD width="25%">python</TD>
       <TD width="25%">python</TD>  
       <TD width="25%">lunch</TD>
-      <TD width="25%">scoft</TD>
+      <TD width="25%">soft</TD>
       <TD width="25%">free hour</TD>
  </TR>
 <TR>
@@ -58,10 +58,10 @@ Execute the program
 <TR>
       <TD width="25%">WEDNESDAY</TD>
       <TD width="25%">maths</TD>
-      <TD width="25%">english</TD>
-      <TD width="25%">english</TD>
-      <TD width="25%">lunch</TD>
       <TD width="25%">french</TD>
+      <TD width="25%">french</TD>
+      <TD width="25%">lunch</TD>
+      <TD width="25%">free hour</TD>
       <TD width="25%">free hour</TD>
  </TR>
 <TR>
@@ -80,30 +80,31 @@ Execute the program
       <TD width="25%">physic</TD>
       <TD width="25%">lunch</TD>
       <TD width="25%">web</TD>
-      <TD width="25%">web</TD>
+      <TD width="25%">free hour</TD>
  </TR>
 <TR>
-<TH colspan="8" align="centre" bgcolor="lightgreen">web faculity: Dr.G.karthi Govindharaju</TH>
+<TH colspan="8" align="centre" bgcolor="lightgreen">web faculty: Dr.G.karthi Govindharaju </TH>
+<TR>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">python,maths,linear faculty:Mrs.Nadar Akila.P.Mohan</TH>
 </TR>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightgreen">python,maths,linear facuilty:Mrs.Nadar Akila.P.Mohan</TH>
-</TR>
-<TR>
-<TH colspan="8" align=" centre" bgcolor="lightgreen">french facuilty:Mrs.Mariana Jenifer.P</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">french faculty:Mrs.Mariana Jenifer.P</TH>
 <TR/>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightgreen">english facuilty:Mrs.Freeda Rajakumari R</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">english faculty:Mrs.Freeda Rajakumari R</TH>
 </TR>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightgreen">scoft skills facuilty:Mrs.Shena priya.P R</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">soft skills faculty:Mrs.Shena priya.P R</TH>
 </TR>
 <TR>
-<TH colspan="8" align=" centre" bgcolor="lightgreen">Physics facuilty:Ramki.C</TH>
+<TH colspan="8" align=" centre" bgcolor="lightgreen">Physics faculty:Mr.Ramki.C</TH>
 </TR>
 
 </TABLE>
+      
 ```
 
 # OUPUT
-![image](https://user-images.githubusercontent.com/121373170/211329396-3dab620b-9cf9-477d-87aa-03bc9d8dea95.png)
+![image](https://user-images.githubusercontent.com/121373170/211376434-2bf6d752-724c-47cf-9d30-f4047a97981e.png)
+
 
