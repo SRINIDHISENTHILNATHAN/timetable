@@ -107,8 +107,8 @@ Execute the program
 # OUPUT
 ![image](https://user-images.githubusercontent.com/121373170/211376434-2bf6d752-724c-47cf-9d30-f4047a97981e.png)
 
+# Result:
 ```
-Result:
 Thus the timetable displayed successfully.
 
 
